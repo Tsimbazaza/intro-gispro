@@ -4,5 +4,3 @@ import analysis
 
 # Load the shapefile
 gdf = gpd.read_file('path/to/your/shapefile.shp')
-# Plot the shapefile
-gdf.plot()
